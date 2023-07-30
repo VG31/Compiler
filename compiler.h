@@ -1,5 +1,5 @@
-#ifndef PEACHCOMPILER_H
-#define PEACHCOMPILER_H
+#ifndef MYCOMPILER_H
+#define MYCOMPILER_H
 
 #include <stdio.h>
 #include <stdbool.h>
